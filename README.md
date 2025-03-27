@@ -4,7 +4,7 @@ Spotify app icon is always shown in the OS X Dock when opened, which is taking s
 
 ## Usage
 ```
-curl -s https://raw.githubusercontent.com/4ian/hide-spotify-from-dock/master/hide-spotify-from-dock.sh | bash
+curl -s https://github.com/SocialPixels/hide-spotify-from-dock-undo/blob/master/hide-spotify-from-dock.sh | bash
 ```
 
 Restart Spotify. You're done ✌️
